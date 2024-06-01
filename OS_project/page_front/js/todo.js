@@ -1,4 +1,4 @@
-const host = "http://44.223.216.144:9000";
+const host = "http://35.169.187.32:800";
 const todosContainer = document.querySelector('.comments-history');
 
 function getTodos() {
